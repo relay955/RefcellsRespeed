@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>plet.refcellrespeed</packageId>
+    <name>Refcells Respeed</name>
+    <author>plet</author>
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+    <description>
+        an RimWorld mod that change game tick mechanism and compatible Zetrith's Multiplayer.
+    </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <downloadUrl>https://github.com/pardeike/Harmony/releases/</downloadUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+   <li>
+      <packageId>rwmt.Multiplayer</packageId>
+      <displayName>Multiplayer</displayName>
+      <downloadUrl>https://github.com/rwmt/Multiplayer/releases/</downloadUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1752864297</steamWorkshopUrl>
+   </li>
+  </modDependencies>
+
+</ModMetaData>
