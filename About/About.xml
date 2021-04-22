@@ -7,7 +7,7 @@
         <li>1.2</li>
     </supportedVersions>
     <description>
-        an RimWorld mod that change game tick mechanism and compatible Zetrith's Multiplayer.
+an RimWorld mod that change game tick mechanism and compatible Zetrith's Multiplayer.
     </description>
   <modDependencies>
     <li>
